@@ -2,7 +2,6 @@
 css、js对rem的使用。
 
 1.css方法
-
     html{
         font-size: 10px;
     }
@@ -38,7 +37,6 @@ css、js对rem的使用。
     }
     
 2.js方法
-
     (function (doc, win) {
         var docEl = doc.documentElement,
             // 手机旋转事件,大部分手机浏览器都支持 onorientationchange 如果不支持，可以使用原始的 resize
