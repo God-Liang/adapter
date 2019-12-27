@@ -46,7 +46,7 @@ css、js对rem的使用。
                 //clientWidth: 获取对象可见内容的宽度，不包括滚动条，不包括边框
                 var clientWidth = docEl.clientWidth;
                 if (!clientWidth) return;
-                docEl.style.fontSize = 10 * (clientWidth / 320) + 'px';
+                docEl.style.fontSize = 20 * (clientWidth / 750) + 'px';
             };
         recalc();
         //判断是否支持监听事件 ，不支持则停止
