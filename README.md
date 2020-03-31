@@ -72,5 +72,5 @@ css、js对rem的使用。
             }
 
 VSCode配置：cssrem.rootFontSize
-![Image](https://raw.githubusercontent.com/Gladysid/Images-blog/master/IE-box-pic.png)
+![VSCode配置](https://github.com/God-Liang/adapter/blob/master/VSCode.jpg?raw=true)
 
